@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'صارفین',
+    'manage-subusers' => 'ذیلی صارفین کا منظم کریں',
+    'new-user' => 'نیا صارف',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'یہ لگتا ہے کہ آپ کے پاس کوئی ذیلی صارف نہیں ہے۔',
 
-    'name' => 'Name',
-    'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    'name' => 'نام',
+    'email' => 'ای میل',
+    '2FA-enabled' => '2FA چالو ہے',
+    'creation-date' => 'تخلیق کی تاریخ',
+    'modify-permissions' => 'اختیارات میں ترتیب دیں',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'صارف کا ای میل',
+    'user-email-description' => 'اس سرور کے لیے ذیلی صارف کے طور پر دعوت بھیجنا چاہتے ہیں، توصاف دینے والے صارف کا ای میل ڈالیں۔',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'اختیارات میں ترتیب دینا',
+    'view-permissions-for' => 'اختیارات دیکھیں',
+    'create-new-subuser' => 'نیا ذیلی صارف بنائیں',
+    'must-not-exceed' => 'ای میل کا پتہ 191 حروف سے زیادہ نہیں ہونا چاہئے۔',
+    'valid-email' => 'ایک درست ای میل پتہ فراہم کیا جانا چاہئے۔',
+    'save' => 'محفوظ کریں',
+    'invite-user' => 'صارف کو دعوت دیں',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'صرف وہ اختیارات منتخب کی جا سکتی ہیں جو حساب کو فراہم کی گئی ہیں جب دوسرے صارفین کو بنایا یا ترتیب دیا جاتا ہے۔',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'کیا آپ اس ذیلی صارف کو حذف کرنا چاہتے ہیں؟',
+    'yes-remove' => 'جی ہاں، ذیلی صارف حذف کریں',
+    'are-you-sure-to-remove' => 'کیا آپ یقینی ہیں کہ آپ اس ذیلی صارف کو ہٹانا چاہتے ہیں؟ انہیں فوراً اس سرور تک رسائی حاصل نہ ہو گی۔'
 ];
