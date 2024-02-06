@@ -1,22 +1,22 @@
 <?php
 
 return [
-    'dashboard' => 'Dashboard',
+    'dashboard' => 'ڈیش بورڈ',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'title' => 'SFTP تفصیلات',
+        'server-address' => 'سرور کا پتہ',
+        'username' => 'صارف نام',
+        'description' => 'آپ کا SFTP پاس ورڈ وہی ہے جو آپ اس پینل تک رسائی کے لیے استعمال کرتے ہیں۔.',
+        'launch-sftp' => 'SFTP شروع کریں۔',
     ],
     'server-info' => [
-        'title' => 'Server Info',
-        'hostname' => 'Hostname',
-        'node-id' => 'Node ID',
-        'server-id' => 'Server ID',
+        'title' => 'سرور کی معلومات',
+        'hostname' => 'میزبان کا نام',
+        'node-id' => 'نوڈ ID',
+        'server-id' => 'سرور ID',
         
-        'uptime' => 'Uptime',
+        'uptime' => 'اپ ٹائم',
         'server-ip' => 'Server IP',
     ],
 ];
