@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'startup-settings' => 'Startup Settings',
-    'startup-command' => 'Startup Command',
-    'docker-image' => 'Docker Image',
-    'read-only' => 'Read Only',
-    'select-docker-feature' => 'This is an advanced feature allowing you to select a Docker image to use when running this server instance.',
-    'custom-docker-image' => 'This {"server\'s"} Docker image has been manually set by an administrator and cannot be changed through this UI.',
-    'variables' => 'Variables'
+    'startup-settings' => 'شروعاتی ترتیبات',
+    'startup-command' => 'شروعاتی کمانڈ',
+    'docker-image' => 'ڈاکر تصویر',
+    'read-only' => 'صرف پڑھیں',
+    'select-docker-feature' => 'یہ ایک پیشترفتہ خصوصیت ہے جو آپ کو ایک ڈاکر تصویر منتخب کرنے کی اجازت دیتی ہے جب آپ اس سرور کا مثال چلاتے ہیں۔',
+    'custom-docker-image' => 'اس سرور کی ڈاکر تصویر ایک ایڈمنسٹریٹر نے دستیاب کرائی ہوئی ہے اور یہ اس یو آئی کے ذریعے تبدیل نہیں کی جا سکتی۔',
+    'variables' => 'متغیرات'
 ];
