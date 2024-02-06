@@ -1,37 +1,35 @@
-<?php
-
 return [
-    'settings' => 'Settings',
+    'settings' => 'ترتیبات',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'title' => 'SFTP کی تفصیلات',
+        'server-address' => 'سرور کا پتہ',
+        'username' => 'صارف کا نام',
+        'description' => 'آپ کا SFTP پاسورڈ اس پینل تک رسائی حاصل کرنے والے پاسورڈ کے برابر ہے۔',
+        'launch-sftp' => 'SFTP شروع کریں',
     ],
 
     'rename' => [
-        'title' => 'Change Server Details',
-        'server-name' => 'Server Name',
-        'server-description' => 'Server Description',
-        'save' => 'Save',
+        'title' => 'سرور کی تفصیلات تبدیل کریں',
+        'server-name' => 'سرور کا نام',
+        'server-description' => 'سرور کی تفصیلات',
+        'save' => 'محفوظ کریں',
     ],
 
     'debug' => [
-        'title' => 'Debug Information',
-        'node' => 'Node',
-        'server-id' => 'Server ID',
+        'title' => 'ڈیبگ معلومات',
+        'node' => 'نوڈ',
+        'server-id' => 'سرور کی شناختی نمبر',
     ],
 
     'reinstall' => [
-        'title' => 'Reinstall Server',
-        'reinstall-started' => 'Your server has begun the reinstallation process.',
-        'confirm-reinstallation' => 'Confirm server reinstallation',
-        'yes-reinstall' => 'Yes, reinstall server',
-        'are-you-sure' => 'Your server will be stopped and some files may be deleted or modified during this process, are you sure you wish to continue?',
-        'desc-1' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up.',
-        'desc-2' => 'Some files may be deleted or modified during this process, please back up your data before continuing.',
-        'reinstall-server' => 'Reinstall Server',
+        'title' => 'سرور دوبارہ انسٹال کریں',
+        'reinstall-started' => 'آپ کا سرور دوبارہ انسٹال کرنے کا عمل شروع ہوگیا ہے۔',
+        'confirm-reinstallation' => 'سرور دوبارہ انسٹال کرنے کی تصدیق کریں',
+        'yes-reinstall' => 'جی ہاں، سرور دوبارہ انسٹال کریں',
+        'are-you-sure' => 'آپ کا سرور رکا ہوا ہوگا اور اس عمل کے دوران کچھ فائلیں حذف یا ترتیب دی جا سکتی ہیں، کیا آپ یقینی ہیں کہ آپ جاری رکھنا چاہتے ہیں؟',
+        'desc-1' => 'آپ کے سرور کو دوبارہ انسٹال کرنا اسے رکا کرے گا، اور پھر وہ اس انسٹالیشن اسکرپٹ کو دوبارہ چلائے گا جو نے اسے شروع کیا تھا۔',
+        'desc-2' => 'اس عمل کے دوران کچھ فائلیں حذف یا ترتیب دی جا سکتی ہیں، براہ کرم آگے بڑھنے سے پہلے اپنے ڈیٹا کا بیک اپ بنائیں۔',
+        'reinstall-server' => 'سرور دوبارہ انسٹال کریں',
     ],
 ];
