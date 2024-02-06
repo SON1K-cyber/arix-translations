@@ -1,18 +1,18 @@
 <?php
 
-return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+return [
+    'network' => 'نیٹ ورک',
+    'manage-allocation' => 'تخصیص کا منظم کریں',
+    'create-allocation' => 'تخصیص بنائیں',
+    'currently-using' => 'آپ فی الحال اس سرور کے لئے مجاز ہونے والی تخصیصوں میں {{current}} استعمال کر رہے ہیں، جبکہ مجاز تخصیصوں کا زیادہ سے زیادہ حد {{max}} ہے۔',
 
     'IP' => 'IP',
-    'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'port' => 'پورٹ',
+    'notes' => 'نوٹس',
+    'primary' => 'پرائمری',
+    'make-primary' => 'پرائمری بنائیں',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'تخصیص ہٹائیں',
+    'remove-allocation-description' => 'یہ تخصیص فوراً آپ کے سرور سے ہٹا دی جائے گی۔',
+    'delete' => 'حذف کریں',
 ];
